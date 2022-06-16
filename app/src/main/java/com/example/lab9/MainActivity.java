@@ -24,10 +24,6 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * Don't forget to add to manifest.xml
- *     <uses-permission android:name="android.permission.INTERNET" />
- */
 
 public class MainActivity extends AppCompatActivity {
 
